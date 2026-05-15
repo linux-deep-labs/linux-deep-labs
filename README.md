@@ -14,7 +14,7 @@
 ╚═════╝ ╚══════╝╚══════╝╚═╝         ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝
 ```
 
-Full Stack Engineer focused on scalable enterprise systems, modern frontend architecture, and cloud-driven platforms.
+Full Stack Developer focused on scalable enterprise systems, modern frontend architecture, and cloud-driven platforms.
 
 ---
 
@@ -22,8 +22,6 @@ Full Stack Engineer focused on scalable enterprise systems, modern frontend arch
 
 Full Stack Developer with experience delivering enterprise applications across:
 
-- Government Systems
-- Banking Platforms
 - CRM Applications
 - Enterprise Dashboards
 - E-Commerce Systems
