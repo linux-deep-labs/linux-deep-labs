@@ -108,7 +108,5 @@ linuxxxx.info@gmail.com
 💼 LinkedIn  
 [LinkedIn Profile](https://www.linkedin.com/in/primeladagon-chunprachak-2453893ba/?utm_source=chatgpt.com)
 
-💻 Portfolio  
-Coming Soon
 
 ---
